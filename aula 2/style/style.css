@@ -1,0 +1,81 @@
+h1.titulo {
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+li.lista1 {
+    margin-left: 50px;
+}
+
+.primeira {
+    font-size: 50pt;
+    display: inline-block !important;
+    margin: 0px;
+}
+
+img {
+    margin-left: 50%;
+}
+
+.verde {
+    margin: 0px;
+    margin-left: 100px;
+    margin-top: 0px;
+    background-color: green;
+    font-size: 15pt;
+}
+
+.azul1 {
+    margin-top: 0px;
+    background-color: blue;
+    font-size: 50pt;
+    font-style: italic;
+    text-decoration: underline;
+    margin-left: 40px;
+}
+
+.vermelho {
+    margin-top: 0px;
+    background-color: red;
+    font-size: 30pt;
+    margin-left: 40px;
+}
+
+
+.azul2 {
+    margin-top: 0px;
+    margin-left: 100px;
+    background-color: blue;
+    font-size: 20pt;
+}
+
+.docentes {
+    text-indent: -100pt;
+    margin-top:  0px;
+}
+
+.imagem-listrada {
+    margin-top: 0px;
+    margin-left: 100px;
+    background-image: url("https://makeuppinturas.com.br/wp-content/uploads/2012/10/site-background-pattern-07.jpeg");
+    font-size: 30pt;
+}
+
+.branco {
+    margin-top: 0px;
+    margin-left: 100px;
+    font-size: 70pt;
+}
+
+.branco2 {
+    margin-top: 0px;
+    margin-left: 100px;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 15pt;
+}
+
+.noticias {
+    margin-left: 20px;
+    font-size: 15pt;
+}
